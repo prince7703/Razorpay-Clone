@@ -25,4 +25,4 @@ Before you begin, ensure you have the following installed:
 **Thanks to the Tailwind CSS community for providing a powerful styling framework.**
 
 
-Feel free to reach out for any questions or clarifications. Happy coding!
+/*Feel free to reach out for any questions or clarifications. Happy coding!*/
